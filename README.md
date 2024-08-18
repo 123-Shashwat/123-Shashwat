@@ -6,7 +6,7 @@ I'm currently studying Android app development and blockchain technology.
 I'm eager to collaborate with developers worldwide by joining open-source communities and contributing to projects that align with my interests.
 
 
-###Skills:-
+### Skills:-
 
     Programming Languages: C, Java, Kotlin, Python
 
