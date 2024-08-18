@@ -3,8 +3,7 @@ Hey Everyone! I'm Shashwat Amitabh currently pursuing BS in Data Science at Indi
 
 I'm currently studying Android app development and Blockchain technology. 
 
-I'm eager to collaborate with developers worldwide by joining open-source communities and contributing to projects that align with my interests.#0969DA
-
+I'm eager to collaborate with developers worldwide by joining open-source communities and contributing to projects that align with my interests.
 
 
 ### Skills
