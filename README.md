@@ -9,7 +9,8 @@ I'm eager to collaborate with developers worldwide by joining open-source commun
 
 > Programming Languages: C, Java, Kotlin, Python
 
-### Connect with me at [Twitter](https://x.com/123_Shashwat_A)
+### Connect with me at
+[Twitter](https://x.com/123_Shashwat_A)
 
 
 <!--
