@@ -5,11 +5,12 @@ I'm currently studying Android app development and Blockchain technology.
 
 I'm eager to collaborate with developers worldwide by joining open-source communities and contributing to projects that align with my interests.
 
-[Twitter](https://x.com/123_Shashwat_A)
-
 ### Skills
 
 > Programming Languages: C, Java, Kotlin, Python
+
+### Connect with me at 
+[Twitter](https://x.com/123_Shashwat_A)
 
 
 <!--
